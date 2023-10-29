@@ -2,8 +2,8 @@
 The data set is information about individuals who, during the period under study, went into default or did not go into default(have active overdue debt).
 
 There are two datasets available:
-- train for model training;
-- test for the final evaluation of the model.
+- Training for model training;
+- Test for the final evaluation of the model.
 
 Target attribute - client default: 1 - a default was recorded for the client at the time of data collection, 0 - no default was recorded for the client at the time of data collection.
 
